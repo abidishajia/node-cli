@@ -1,6 +1,6 @@
 {
   "name": "abidi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get to know Shajia via npm cli abidi",
   "bin": {
     "abidi": "index.js"
