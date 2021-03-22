@@ -12,5 +12,11 @@
     "shajia abidi",
     "abidi",
     "shajia"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "abidishajia/abidi",
+  "author": {
+    "name": "Shajia Abidi",
+    "email": "abidishajia@gmail.com"
+  }
 }
